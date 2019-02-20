@@ -1,2 +1,2 @@
-# cissonia-deploy
-Deployment version of Cissonia, source code. https://discordapp.com/oauth2/authorize?&amp;client_id=547811919168274452&amp;scope=bot&amp;permissions=8
+# Cissonia Bot
+Deployment version of the Cissonia Discord Bot, source code. Add it here: https://discordapp.com/oauth2/authorize?&client_id=547811919168274452&scope=bot&permissions=8
