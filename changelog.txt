@@ -1,0 +1,29 @@
+DEPLOY VERSION BETA ...0.0.1
+[DATE]: 2/20/2019 - 2/21/2019
+[SUMMARY]: Deployed existing alpha-testing version of Cissonia,
+           breaking off the investment module into current bot.
+[CHANGES]:
+ - Created bot
+ - Debugged buying function
+ - Carried final test out before deployment
+ - Added to three servers in-network (in community)
+
+DEPLOY VERSION BETA ...0.0.2
+[DATE]: 4/16/2019 - 4/21/2019
+[SUMMARY]: Added useful info to the commands and debugged
+           the bot. A lot.
+[CHANGES]:
+ - Added (scraped) candlestick chart to $quote
+ - Broke the global investment game into guild-specific
+   investment games
+ - Added tracking for command usage
+ - Added $sell command to sell stocks
+ - Added admin-specific bot disabling/enabling commands
+ - Added to first external server
+ - Added $changelog command to view changelog
+ - Several minor bugfixes and enhancements
+    - Buy command can be used [AMT TICKER] or [TICKER AMT]
+    - Added a delay before shutdown to process final commands
+    - Had $quote show maximum purchasable shares
+    - Changed version numbers
+    - Changed command headers
